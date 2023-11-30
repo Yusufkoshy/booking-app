@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="w-full sticky bg-white top-0 shadow-sm flex flex-col sm:flex-row items-center py-6 px-5"
+    class="z-10 w-full sticky bg-white top-0 shadow-sm flex flex-col sm:flex-row items-center py-6 px-5"
   >
     <div class="flex font-bold">
       <img src="./assets/bxs-plane-alt 1.svg" alt="plane logo" />
